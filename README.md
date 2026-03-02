@@ -12,7 +12,7 @@ I'm a Cybersecurity student at **Kennesaw State University** (B.S. Cybersecurity
 | Project | What It Does | Stack |
 |---|---|---|
 | 🔍 [Research Assistant](#) | AI tool for analyzing academic papers & policy documents | React, Claude API |
-| 🛡️ [GRC Mentor Assistant](#) | Framework tracker & BIC mentorship prep tool | React, Claude API |
+| 🛡️ [GRC Mentor Assistant](#) | Framework tracker & industry prep tool | React, Claude API |
 | 👮 [CyberCrime Training App](#) | Interactive cybercrime modules for law enforcement | React, Claude API |
 
 > Links coming soon — currently in active development!
